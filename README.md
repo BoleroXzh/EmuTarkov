@@ -5,6 +5,9 @@ Escape From Tarkov backend emulator written in JS.
 Setup, playing the game, faq, etc:<br/>
 https://github.com/InNoHurryToCode/EmuTarkov/wiki
 
+## How to use?
+Run 'install.bat', then run 'run.bat'. You will also need to modify one file in your install -> Open 'client.config.json' in your EFT folder and change 'https://prod.escapefromtarkov.com' to 'http://localhost:1337'. After you done all that, launch the game and enjoy :)
+
 ## Issues
 All bugs/errors/issues:<br/>
 https://github.com/polivilas/EmuTarkov/issues<br/>
